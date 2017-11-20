@@ -1,2 +1,3 @@
 # testRepo
-This branch is for enhancements 
+This is the branch which will host funcation code
+>>>>>>> master
